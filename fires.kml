@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+    <Style id="fire-style-active-normal">
+      <IconStyle>
+        <scale>1.5</scale>
+        <Icon>
+          <href>files/fire_icon.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.0</scale>
+        <color>ffff0000</color>
+      </LabelStyle>
+    </Style>
+    <Style id="fire-style-active-highlight">
+      <IconStyle>
+        <scale>1.5</scale>
+        <Icon>
+          <href>files/fire_icon.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+        <color>ffff0000</color>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="fire-style-active">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#fire-style-active-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#fire-style-active-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="fire-style-monitoring-normal">
+      <IconStyle>
+        <scale>1.3</scale>
+        <Icon>
+          <href>files/fire_icon.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.9</scale>
+        <color>ffff9900</color>
+      </LabelStyle>
+    </Style>
+    <Style id="fire-style-monitoring-highlight">
+      <IconStyle>
+        <scale>1.3</scale>
+        <Icon>
+          <href>files/fire_icon.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.0</scale>
+        <color>ffff9900</color>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="fire-style-monitoring">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#fire-style-monitoring-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#fire-style-monitoring-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="fire-style-contained-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>files/fire_icon.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.8</scale>
+        <color>ff00ff00</color>
+      </LabelStyle>
+    </Style>
+    <Style id="fire-style-contained-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>files/fire_icon.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.9</scale>
+        <color>ff00ff00</color>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="fire-style-contained">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#fire-style-contained-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#fire-style-contained-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+
+        <name>WatchDuty Fires - Updated: Oct 23, 2025 01:02 UTC</name>
+        <description>Active wildfire data from WatchDuty
+Last updated: 2025-10-23 01:02:16 UTC</description>
+        <Folder id="2">
+            <Style id="5">
+                <IconStyle id="6">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.5</scale>
+                    <heading>0</heading>
+                    <Icon id="7">
+                        <href>files/fire_icon.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="8">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.2</scale>
+                </LabelStyle>
+                <LineStyle id="10">
+                    <color>ffff0000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+                <PolyStyle id="9">
+                    <color>80ff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Active Fires</name>
+            <visibility>1</visibility>
+            <Placemark id="24">
+                <name>Labor Mountain</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Labor Mountain&lt;/h3&gt;
+&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;
+&lt;b&gt;Size:&lt;/b&gt; 42,857 acres&lt;br/&gt;
+&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;
+&lt;b&gt;State:&lt;/b&gt; None&lt;br/&gt;
+&lt;b&gt;Start Date:&lt;/b&gt; None&lt;br/&gt;
+&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt;&lt;br/&gt;None&lt;br/&gt;
+&lt;br/&gt;&lt;i&gt;Data as of: 2025-10-23 01:02 UTC&lt;/i&gt;</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="23">
+                    <coordinates>-120.81901459206675,47.38300576870978,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="26">
+                <name>Lower Sugarloaf</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Lower Sugarloaf&lt;/h3&gt;
+&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;
+&lt;b&gt;Size:&lt;/b&gt; 42,980 acres&lt;br/&gt;
+&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;
+&lt;b&gt;State:&lt;/b&gt; None&lt;br/&gt;
+&lt;b&gt;Start Date:&lt;/b&gt; None&lt;br/&gt;
+&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt;&lt;br/&gt;None&lt;br/&gt;
+&lt;br/&gt;&lt;i&gt;Data as of: 2025-10-23 01:02 UTC&lt;/i&gt;</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="25">
+                    <coordinates>-120.55401463536832,47.75600581911286,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="28">
+                <name>Moon Complex</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Moon Complex&lt;/h3&gt;
+&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;
+&lt;b&gt;Size:&lt;/b&gt; 19,520 acres&lt;br/&gt;
+&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;
+&lt;b&gt;State:&lt;/b&gt; None&lt;br/&gt;
+&lt;b&gt;Start Date:&lt;/b&gt; None&lt;br/&gt;
+&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt;&lt;br/&gt;None&lt;br/&gt;
+&lt;br/&gt;&lt;i&gt;Data as of: 2025-10-23 01:02 UTC&lt;/i&gt;</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="27">
+                    <coordinates>-123.91501413366403,42.688005174084786,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="30">
+                <name>Wildcat</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Wildcat&lt;/h3&gt;
+&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;
+&lt;b&gt;Size:&lt;/b&gt; 15,592 acres&lt;br/&gt;
+&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;
+&lt;b&gt;State:&lt;/b&gt; None&lt;br/&gt;
+&lt;b&gt;Start Date:&lt;/b&gt; None&lt;br/&gt;
+&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt;&lt;br/&gt;None&lt;br/&gt;
+&lt;br/&gt;&lt;i&gt;Data as of: 2025-10-23 01:02 UTC&lt;/i&gt;</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="29">
+                    <coordinates>-121.39701456457958,46.84500567548841,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="32">
+                <name>Harvey</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Harvey&lt;/h3&gt;
+&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;
+&lt;b&gt;Size:&lt;/b&gt; 439 acres&lt;br/&gt;
+&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;
+&lt;b&gt;State:&lt;/b&gt; None&lt;br/&gt;
+&lt;b&gt;Start Date:&lt;/b&gt; None&lt;br/&gt;
+&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt;&lt;br/&gt;None&lt;br/&gt;
+&lt;br/&gt;&lt;i&gt;Data as of: 2025-10-23 01:02 UTC&lt;/i&gt;</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="31">
+                    <coordinates>-84.52000408370677,30.409005691685454,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="34">
+                <name>Williams Rd</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Williams Rd&lt;/h3&gt;
+&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;
+&lt;b&gt;Size:&lt;/b&gt; 321 acres&lt;br/&gt;
+&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;
+&lt;b&gt;State:&lt;/b&gt; None&lt;br/&gt;
+&lt;b&gt;Start Date:&lt;/b&gt; None&lt;br/&gt;
+&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt;&lt;br/&gt;None&lt;br/&gt;
+&lt;br/&gt;&lt;i&gt;Data as of: 2025-10-23 01:02 UTC&lt;/i&gt;</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="33">
+                    <coordinates>-98.33000779528786,30.74800528721819,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+        <Folder id="3">
+            <name>Monitoring</name>
+            <visibility>1</visibility>
+        </Folder>
+        <Folder id="4">
+            <Style id="17">
+                <IconStyle id="18">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                    <heading>0</heading>
+                    <Icon id="19">
+                        <href>files/fire_icon.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="20">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.0</scale>
+                </LabelStyle>
+                <LineStyle id="22">
+                    <color>ff00ff00</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+                <PolyStyle id="21">
+                    <color>8000ff00</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>Contained Fires</name>
+            <visibility>1</visibility>
+            <Placemark id="36">
+                <name>Double Spade</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Double Spade&lt;/h3&gt;
+&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;
+&lt;b&gt;Size:&lt;/b&gt; 361 acres&lt;br/&gt;
+&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;
+&lt;b&gt;State:&lt;/b&gt; None&lt;br/&gt;
+&lt;b&gt;Start Date:&lt;/b&gt; None&lt;br/&gt;
+&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt;&lt;br/&gt;None&lt;br/&gt;
+&lt;br/&gt;&lt;i&gt;Data as of: 2025-10-23 01:02 UTC&lt;/i&gt;</description>
+                <styleUrl>#fire-style-contained</styleUrl>
+                <Point id="35">
+                    <coordinates>-99.15400814653904,33.31600573164304,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="38">
+                <name>Jasper</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Jasper&lt;/h3&gt;
+&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;
+&lt;b&gt;Size:&lt;/b&gt; 121 acres&lt;br/&gt;
+&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;
+&lt;b&gt;State:&lt;/b&gt; None&lt;br/&gt;
+&lt;b&gt;Start Date:&lt;/b&gt; None&lt;br/&gt;
+&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt;&lt;br/&gt;None&lt;br/&gt;
+&lt;br/&gt;&lt;i&gt;Data as of: 2025-10-23 01:02 UTC&lt;/i&gt;</description>
+                <styleUrl>#fire-style-contained</styleUrl>
+                <Point id="37">
+                    <coordinates>-89.03300542625165,32.051005900399616,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="40">
+                <name>Range 46</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Range 46&lt;/h3&gt;
+&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;
+&lt;b&gt;Size:&lt;/b&gt; 353 acres&lt;br/&gt;
+&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;
+&lt;b&gt;State:&lt;/b&gt; None&lt;br/&gt;
+&lt;b&gt;Start Date:&lt;/b&gt; None&lt;br/&gt;
+&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt;&lt;br/&gt;None&lt;br/&gt;
+&lt;br/&gt;&lt;i&gt;Data as of: 2025-10-23 01:02 UTC&lt;/i&gt;</description>
+                <styleUrl>#fire-style-contained</styleUrl>
+                <Point id="39">
+                    <coordinates>-89.16900541731736,31.100005692494676,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="42">
+                <name>Crosby</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Crosby&lt;/h3&gt;
+&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;
+&lt;b&gt;Size:&lt;/b&gt; 300 acres&lt;br/&gt;
+&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;
+&lt;b&gt;State:&lt;/b&gt; None&lt;br/&gt;
+&lt;b&gt;Start Date:&lt;/b&gt; None&lt;br/&gt;
+&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt;&lt;br/&gt;None&lt;br/&gt;
+&lt;br/&gt;&lt;i&gt;Data as of: 2025-10-23 01:02 UTC&lt;/i&gt;</description>
+                <styleUrl>#fire-style-contained</styleUrl>
+                <Point id="41">
+                    <coordinates>-91.06200747211268,47.48000850422731,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="44">
+                <name>White Arrow</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;White Arrow&lt;/h3&gt;
+&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;
+&lt;b&gt;Size:&lt;/b&gt; 349 acres&lt;br/&gt;
+&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;
+&lt;b&gt;State:&lt;/b&gt; None&lt;br/&gt;
+&lt;b&gt;Start Date:&lt;/b&gt; None&lt;br/&gt;
+&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt;&lt;br/&gt;None&lt;br/&gt;
+&lt;br/&gt;&lt;i&gt;Data as of: 2025-10-23 01:02 UTC&lt;/i&gt;</description>
+                <styleUrl>#fire-style-contained</styleUrl>
+                <Point id="43">
+                    <coordinates>-114.96701268384332,43.049006015084096,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
