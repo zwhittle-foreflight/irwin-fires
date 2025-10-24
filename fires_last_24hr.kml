@@ -158,9 +158,9 @@
       </Pair>
     </StyleMap>
 
-        <name>WatchDuty Fires - Updated: Oct 24, 2025 22:53 UTC</name>
+        <name>WatchDuty Fires - Updated: Oct 24, 2025 23:00 UTC</name>
         <description>Active wildfire data from WatchDuty
-Last updated: 2025-10-24 22:53:03 UTC</description>
+Last updated: 2025-10-24 23:00:08 UTC</description>
         <LookAt>
             <longitude>-98.5795</longitude>
             <latitude>39.8283</latitude>
@@ -649,11 +649,20 @@ Last updated: 2025-10-24 22:53:03 UTC</description>
                 </Point>
             </Placemark>
             <Placemark id="141">
+                <name>TANAGER</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;TANAGER&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-10-24&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="140">
+                    <coordinates>-120.5699631712426,39.71537224686493,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="143">
                 <name>W WHITESBRIDGE AVE /N BRAWLEY AVE</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;W WHITESBRIDGE AVE /N BRAWLEY AVE&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-10-24&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="140">
+                <Point id="142">
                     <coordinates>-119.86240570304959,36.735561031838735,0.0</coordinates>
                 </Point>
             </Placemark>
