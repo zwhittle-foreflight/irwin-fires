@@ -158,9 +158,9 @@
       </Pair>
     </StyleMap>
 
-        <name>WatchDuty Fires - Updated: Oct 28, 2025 15:51 UTC</name>
+        <name>WatchDuty Fires - Updated: Oct 28, 2025 16:00 UTC</name>
         <description>Active wildfire data from WatchDuty
-Last updated: 2025-10-28 15:51:15 UTC</description>
+Last updated: 2025-10-28 16:00:06 UTC</description>
         <LookAt>
             <longitude>-98.5795</longitude>
             <latitude>39.8283</latitude>
@@ -6178,6 +6178,15 @@ Last updated: 2025-10-28 15:51:15 UTC</description>
                 <styleUrl>#fire-style-active</styleUrl>
                 <Point id="16800">
                     <coordinates>-114.6045416113,34.83982615713853,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="16803">
+                <name>Riverside Piles RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Riverside Piles RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-OR&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-10-28&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: ORMHF</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="16802">
+                    <coordinates>-121.83697520311142,44.79249150574915,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
