@@ -158,9 +158,9 @@
       </Pair>
     </StyleMap>
 
-        <name>WatchDuty Fires - Updated: Nov 15, 2025 00:00 UTC</name>
+        <name>WatchDuty Fires - Updated: Nov 15, 2025 01:00 UTC</name>
         <description>Active wildfire data from WatchDuty
-Last updated: 2025-11-15 00:00:08 UTC</description>
+Last updated: 2025-11-15 01:00:07 UTC</description>
         <LookAt>
             <longitude>-98.5795</longitude>
             <latitude>39.8283</latitude>
@@ -318,7 +318,7 @@ Last updated: 2025-11-15 00:00:08 UTC</description>
             <Placemark id="51">
                 <name>Lincoln Trail State Park RX</name>
                 <visibility>1</visibility>
-                <description>&lt;h3&gt;Lincoln Trail State Park RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-IL&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: ILILS</description>
+                <description>&lt;h3&gt;Lincoln Trail State Park RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 100 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-IL&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: ILILS</description>
                 <styleUrl>#fire-style-active</styleUrl>
                 <Point id="50">
                     <coordinates>-87.70355553893212,39.34669440106415,0.0</coordinates>
@@ -744,15 +744,6 @@ Last updated: 2025-11-15 00:00:08 UTC</description>
                     <coordinates>-95.45629364145196,46.76037508140333,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="183">
-                <name>Cook Fork</name>
-                <visibility>1</visibility>
-                <description>&lt;h3&gt;Cook Fork&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 15 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-KY&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: KYKYS</description>
-                <styleUrl>#fire-style-active</styleUrl>
-                <Point id="182">
-                    <coordinates>-83.2220040896136,37.543207265415006,0.0</coordinates>
-                </Point>
-            </Placemark>
             <Placemark id="185">
                 <name>Bunker</name>
                 <visibility>1</visibility>
@@ -780,58 +771,76 @@ Last updated: 2025-11-15 00:00:08 UTC</description>
                     <coordinates>-107.51254340641853,37.25042290663532,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="195">
+            <Placemark id="197">
                 <name>Last Time</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Last Time&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 1 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-MS&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: MSMNF</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="194">
+                <Point id="196">
                     <coordinates>-89.11196237657994,30.55177357577827,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="199">
+            <Placemark id="201">
                 <name>Lincoln Highway</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Lincoln Highway&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 3 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-MN&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="198">
+                <Point id="200">
                     <coordinates>-93.23621080587685,45.42778206049395,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="203">
+            <Placemark id="205">
                 <name>DeKalb - Jackson Hollow Road</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;DeKalb - Jackson Hollow Road&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 10 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TN&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: TNTNS</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="202">
+                <Point id="204">
                     <coordinates>-85.87514280903092,36.08142867931352,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="207">
+            <Placemark id="211">
                 <name>Trout Pond 3</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Trout Pond 3&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 3 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-FL&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: FLFNF</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="206">
+                <Point id="210">
                     <coordinates>-81.83042025779366,29.066972457030552,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="209">
+            <Placemark id="213">
                 <name>WATSON RD / JUNIPER FLATS RD</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;WATSON RD / JUNIPER FLATS RD&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="208">
+                <Point id="212">
                     <coordinates>-117.0999549678805,33.747629885329296,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="211">
+            <Placemark id="217">
                 <name>LAC-398861</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;LAC-398861&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="210">
+                <Point id="216">
                     <coordinates>-118.26561217385319,33.84172483145726,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="219">
+                <name>HWY 24 mm276</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;HWY 24 mm276&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 5 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CO&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="218">
+                    <coordinates>-105.20271006694225,38.938873293248484,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="221">
+                <name>RAMSEY RD / CHAPMAN RD</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;RAMSEY RD / CHAPMAN RD&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="220">
+                    <coordinates>-116.65142086942195,33.48485187891586,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
@@ -874,40 +883,22 @@ Last updated: 2025-11-15 00:00:08 UTC</description>
                     <coordinates>-83.16784403113442,36.89807713816286,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="157">
-                <name>Lower Mill Creek Road</name>
+            <Placemark id="195">
+                <name>Campbell - Oak Grove Road</name>
                 <visibility>1</visibility>
-                <description>&lt;h3&gt;Lower Mill Creek Road&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Monitoring&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 15 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 80%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-KY&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: KYKYS</description>
+                <description>&lt;h3&gt;Campbell - Oak Grove Road&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Monitoring&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 4 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 70%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TN&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human</description>
                 <styleUrl>#fire-style-monitoring</styleUrl>
-                <Point id="156">
-                    <coordinates>-83.03255401795154,37.31115722703602,0.0</coordinates>
+                <Point id="194">
+                    <coordinates>-84.15235427970148,36.25385696663934,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="175">
-                <name>Liberty 5370</name>
+            <Placemark id="209">
+                <name>Sevier - Flat Creek Road</name>
                 <visibility>1</visibility>
-                <description>&lt;h3&gt;Liberty 5370&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Monitoring&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 25 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 90%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TX&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: TXTXS</description>
+                <description>&lt;h3&gt;Sevier - Flat Creek Road&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Monitoring&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 2 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 80%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TN&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: TNTNS</description>
                 <styleUrl>#fire-style-monitoring</styleUrl>
-                <Point id="174">
-                    <coordinates>-94.66129090500772,30.071426275169394,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="201">
-                <name>Minnie</name>
-                <visibility>1</visibility>
-                <description>&lt;h3&gt;Minnie&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Monitoring&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 2 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 50%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-KY&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: KYKYS</description>
-                <styleUrl>#fire-style-monitoring</styleUrl>
-                <Point id="200">
-                    <coordinates>-82.75018609501943,37.4775591222657,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="205">
-                <name>Roane - Blair Road</name>
-                <visibility>1</visibility>
-                <description>&lt;h3&gt;Roane - Blair Road&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Monitoring&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 2 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 80%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TN&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: TNTNS</description>
-                <styleUrl>#fire-style-monitoring</styleUrl>
-                <Point id="204">
-                    <coordinates>-84.41210433961854,35.99950690407089,0.0</coordinates>
+                <Point id="208">
+                    <coordinates>-83.44661139170395,35.91213387538083,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
@@ -1013,6 +1004,15 @@ Last updated: 2025-11-15 00:00:08 UTC</description>
                     <coordinates>-83.69920420057308,37.090007154537005,0.0</coordinates>
                 </Point>
             </Placemark>
+            <Placemark id="157">
+                <name>Lower Mill Creek Road</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Lower Mill Creek Road&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 17 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-KY&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: KYKYS</description>
+                <styleUrl>#fire-style-contained</styleUrl>
+                <Point id="156">
+                    <coordinates>-83.03255401795154,37.31115722703602,0.0</coordinates>
+                </Point>
+            </Placemark>
             <Placemark id="159">
                 <name>DO HI WY</name>
                 <visibility>1</visibility>
@@ -1031,6 +1031,15 @@ Last updated: 2025-11-15 00:00:08 UTC</description>
                     <coordinates>-95.16677382380412,33.54782262413383,0.0</coordinates>
                 </Point>
             </Placemark>
+            <Placemark id="175">
+                <name>Liberty 5370</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Liberty 5370&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 49 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TX&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: TXTXS</description>
+                <styleUrl>#fire-style-contained</styleUrl>
+                <Point id="174">
+                    <coordinates>-94.66129090500772,30.071426275169394,0.0</coordinates>
+                </Point>
+            </Placemark>
             <Placemark id="177">
                 <name>Canoe</name>
                 <visibility>1</visibility>
@@ -1043,10 +1052,19 @@ Last updated: 2025-11-15 00:00:08 UTC</description>
             <Placemark id="179">
                 <name>Magoffin County - 1167 Old Lick Creek Road</name>
                 <visibility>1</visibility>
-                <description>&lt;h3&gt;Magoffin County - 1167 Old Lick Creek Road&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 5 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-KY&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: KYKYS</description>
+                <description>&lt;h3&gt;Magoffin County - 1167 Old Lick Creek Road&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 6 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-KY&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: KYKYS</description>
                 <styleUrl>#fire-style-contained</styleUrl>
                 <Point id="178">
                     <coordinates>-83.06384405933981,37.790307321308006,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="183">
+                <name>Cook Fork</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Cook Fork&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 25 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-KY&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: KYKYS</description>
+                <styleUrl>#fire-style-contained</styleUrl>
+                <Point id="182">
+                    <coordinates>-83.2220040896136,37.543207265415006,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="189">
@@ -1067,13 +1085,40 @@ Last updated: 2025-11-15 00:00:08 UTC</description>
                     <coordinates>-85.67442132702374,35.217206692083195,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="197">
+            <Placemark id="199">
                 <name>Rolling Hills</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Rolling Hills&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 4 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TX&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: TXTXS</description>
                 <styleUrl>#fire-style-contained</styleUrl>
-                <Point id="196">
+                <Point id="198">
                     <coordinates>-95.96861232288059,32.93820913291002,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="203">
+                <name>Minnie</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Minnie&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 4 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-KY&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: KYKYS</description>
+                <styleUrl>#fire-style-contained</styleUrl>
+                <Point id="202">
+                    <coordinates>-82.75018609501943,37.4775591222657,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="207">
+                <name>Roane - Blair Road</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Roane - Blair Road&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 2 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TN&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: TNTNS</description>
+                <styleUrl>#fire-style-contained</styleUrl>
+                <Point id="206">
+                    <coordinates>-84.41210433961854,35.99950690407089,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="215">
+                <name>Martin County - 147 Spence Branch Road</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Martin County - 147 Spence Branch Road&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-KY&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human</description>
+                <styleUrl>#fire-style-contained</styleUrl>
+                <Point id="214">
+                    <coordinates>-82.58129402411687,37.91755976717318,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
