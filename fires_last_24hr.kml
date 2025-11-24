@@ -158,9 +158,9 @@
       </Pair>
     </StyleMap>
 
-        <name>WatchDuty Fires - Updated: Nov 24, 2025 20:00 UTC</name>
+        <name>WatchDuty Fires - Updated: Nov 24, 2025 21:00 UTC</name>
         <description>Active wildfire data from WatchDuty
-Last updated: 2025-11-24 20:00:07 UTC</description>
+Last updated: 2025-11-24 21:00:05 UTC</description>
         <LookAt>
             <longitude>-98.5795</longitude>
             <latitude>39.8283</latitude>
@@ -442,227 +442,209 @@ Last updated: 2025-11-24 20:00:07 UTC</description>
                 </Point>
             </Placemark>
             <Placemark id="79">
-                <name>FD010179</name>
-                <visibility>1</visibility>
-                <description>&lt;h3&gt;FD010179&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-MA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-23&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human</description>
-                <styleUrl>#fire-style-active</styleUrl>
-                <Point id="78">
-                    <coordinates>-70.53792079684538,41.77353893727456,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="83">
-                <name>Lone cedar</name>
-                <visibility>1</visibility>
-                <description>&lt;h3&gt;Lone cedar&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-SD&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-23&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: SDPRA</description>
-                <styleUrl>#fire-style-active</styleUrl>
-                <Point id="82">
-                    <coordinates>-102.73539111031417,43.196476948192235,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="85">
                 <name>LAC-409774</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;LAC-409774&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-23&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="84">
+                <Point id="78">
                     <coordinates>-118.27834218139768,33.90910483821783,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="87">
+            <Placemark id="81">
                 <name>FD010178</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;FD010178&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-MA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-23&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="86">
+                <Point id="80">
                     <coordinates>-70.58084510990966,41.75560745248756,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="91">
+            <Placemark id="85">
                 <name>Island</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Island&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-SD&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-23&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: SDPRA</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="90">
+                <Point id="84">
                     <coordinates>-102.72181268811627,43.20441803027538,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="93">
+            <Placemark id="87">
                 <name>MONTERO</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;MONTERO&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 7 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-23&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="92">
+                <Point id="86">
                     <coordinates>-120.86436301345864,38.08982208502645,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="95">
+            <Placemark id="89">
                 <name>108th St</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;108th St&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-MN&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-23&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="94">
+                <Point id="88">
                     <coordinates>-93.54620990965931,45.53219005347815,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="97">
+            <Placemark id="91">
                 <name>Cowboy</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Cowboy&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 2 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TX&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-23&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: TXTXF</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="96">
+                <Point id="90">
                     <coordinates>-95.11138997073449,30.491805355152312,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="101">
+            <Placemark id="95">
                 <name>Rock</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Rock&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-ND&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-23&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: SDOAE</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="100">
+                <Point id="94">
                     <coordinates>-100.63436827172558,46.09316869389005,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="103">
+            <Placemark id="97">
                 <name>Red Fish</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Red Fish&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-ND&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-23&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: SDOAE</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="102">
+                <Point id="96">
                     <coordinates>-100.63747938317795,46.09692425409786,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="105">
+            <Placemark id="99">
                 <name>BRIGGS RD / GOLDEN J LN</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;BRIGGS RD / GOLDEN J LN&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-23&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="104">
+                <Point id="98">
                     <coordinates>-117.13681396535782,33.63421187014089,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="107">
+            <Placemark id="101">
                 <name>LAC-410177</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;LAC-410177&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-23&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="106">
+                <Point id="100">
                     <coordinates>-118.15489222337166,34.660354927844196,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="109">
+            <Placemark id="103">
                 <name>Garage</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Garage&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-WI&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-23&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: MNMRA</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="108">
+                <Point id="102">
                     <coordinates>-88.52573891268297,44.90465622541943,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="111">
+            <Placemark id="105">
                 <name>LAC-410281</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;LAC-410281&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-23&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="110">
+                <Point id="104">
                     <coordinates>-118.18351216519838,33.90551484312924,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="113">
+            <Placemark id="107">
                 <name>Fire 157</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Fire 157&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-WI&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-24&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="112">
+                <Point id="106">
                     <coordinates>-87.64421610637888,45.064448374923614,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="115">
+            <Placemark id="109">
                 <name>LAC-410460</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;LAC-410460&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-24&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="114">
+                <Point id="108">
                     <coordinates>-118.15688222496507,34.674904929311396,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="117">
+            <Placemark id="111">
                 <name>LAC-410503</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;LAC-410503&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-24&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="116">
+                <Point id="110">
                     <coordinates>-118.15688222496507,34.674904929311396,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="119">
+            <Placemark id="113">
                 <name>FDID 60111</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;FDID 60111&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-OH&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-24&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="118">
+                <Point id="112">
                     <coordinates>-82.02821890404208,39.95691278764642,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="121">
+            <Placemark id="115">
                 <name>LAC-410710</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;LAC-410710&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-24&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="120">
+                <Point id="114">
                     <coordinates>-118.00777214784397,34.056614869829,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="123">
+            <Placemark id="117">
                 <name>LAC-410749</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;LAC-410749&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-24&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="122">
+                <Point id="116">
                     <coordinates>-118.17943216656104,33.930924846181505,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="125">
+            <Placemark id="119">
                 <name>Riverside</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Riverside&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-UT&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-24&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="124">
+                <Point id="118">
                     <coordinates>-110.79433035961915,39.58172398403964,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="127">
+            <Placemark id="121">
                 <name>Free Chicken Fire</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Free Chicken Fire&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-ME&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-24&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="126">
+                <Point id="120">
                     <coordinates>-68.01274793973899,44.74466211570064,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="129">
+            <Placemark id="123">
                 <name>Pipeline</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Pipeline&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-FL&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-24&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: FLFNF</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="128">
+                <Point id="122">
                     <coordinates>-81.73862623146655,29.076645461834758,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="131">
+            <Placemark id="125">
                 <name>LAC-410822</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;LAC-410822&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-24&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="130">
+                <Point id="124">
                     <coordinates>-118.4237122479021,34.41981488593806,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="133">
+            <Placemark id="127">
                 <name>Secret</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Secret&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-OR&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-24&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: ORRSF</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="132">
+                <Point id="126">
                     <coordinates>-123.6149800467932,42.43361918581999,0.0</coordinates>
                 </Point>
             </Placemark>
@@ -701,39 +683,30 @@ Last updated: 2025-11-24 20:00:07 UTC</description>
             </Style>
             <name>Contained Fires</name>
             <visibility>1</visibility>
-            <Placemark id="81">
-                <name>Hwy 80</name>
-                <visibility>1</visibility>
-                <description>&lt;h3&gt;Hwy 80&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 2 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-GA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-23&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human</description>
-                <styleUrl>#fire-style-contained</styleUrl>
-                <Point id="80">
-                    <coordinates>-83.93694842262487,32.77056183867802,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="89">
+            <Placemark id="83">
                 <name>Lewis - Waynesboro Highway</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Lewis - Waynesboro Highway&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TN&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-23&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: TNTNS</description>
                 <styleUrl>#fire-style-contained</styleUrl>
-                <Point id="88">
+                <Point id="82">
                     <coordinates>-87.57714051963568,35.52869517530789,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="99">
+            <Placemark id="93">
                 <name>Grundy - North 50th Avenue</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Grundy - North 50th Avenue&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 1 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TN&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-23&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: TNTNS</description>
                 <styleUrl>#fire-style-contained</styleUrl>
-                <Point id="98">
+                <Point id="92">
                     <coordinates>-85.61070464935825,35.39200673052597,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="135">
+            <Placemark id="129">
                 <name>Van Buren - Old State Highway</name>
                 <visibility>1</visibility>
-                <description>&lt;h3&gt;Van Buren - Old State Highway&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TN&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-24&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: TNTNS</description>
+                <description>&lt;h3&gt;Van Buren - Old State Highway&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TN&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-24&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: TNTNS</description>
                 <styleUrl>#fire-style-contained</styleUrl>
-                <Point id="134">
+                <Point id="128">
                     <coordinates>-85.45951827670555,35.56920902298433,0.0</coordinates>
                 </Point>
             </Placemark>
