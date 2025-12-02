@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="201">
+    <Document id="203">
     <Style id="fire-style-active-normal">
       <IconStyle>
         <scale>1.5</scale>
@@ -158,9 +158,9 @@
       </Pair>
     </StyleMap>
 
-        <name>WatchDuty Fires - Updated: Dec 02, 2025 00:00 UTC</name>
+        <name>WatchDuty Fires - Updated: Dec 02, 2025 01:00 UTC</name>
         <description>Active wildfire data from WatchDuty
-Last updated: 2025-12-02 00:00:04 UTC</description>
+Last updated: 2025-12-02 01:00:04 UTC</description>
         <LookAt>
             <longitude>-98.5795</longitude>
             <latitude>39.8283</latitude>
@@ -168,28 +168,28 @@ Last updated: 2025-12-02 00:00:04 UTC</description>
             <tilt>0</tilt>
             <range>3000000</range>
         </LookAt>
-        <Folder id="203">
-            <Style id="206">
-                <IconStyle id="207">
+        <Folder id="205">
+            <Style id="208">
+                <IconStyle id="209">
                     <color>ffffffff</color>
                     <colorMode>normal</colorMode>
                     <scale>1.5</scale>
                     <heading>0</heading>
-                    <Icon id="208">
+                    <Icon id="210">
                         <href>files/fire_icon.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="209">
+                <LabelStyle id="211">
                     <color>ffff0000</color>
                     <colorMode>normal</colorMode>
                     <scale>1.2</scale>
                 </LabelStyle>
-                <LineStyle id="211">
+                <LineStyle id="213">
                     <color>ff0000ff</color>
                     <colorMode>normal</colorMode>
                     <width>3</width>
                 </LineStyle>
-                <PolyStyle id="210">
+                <PolyStyle id="212">
                     <color>4000ffff</color>
                     <colorMode>normal</colorMode>
                     <fill>1</fill>
@@ -198,67 +198,58 @@ Last updated: 2025-12-02 00:00:04 UTC</description>
             </Style>
             <name>Active Fires</name>
             <visibility>1</visibility>
-            <Placemark id="225">
+            <Placemark id="227">
                 <name>Casper Field Office Piles RX</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Casper Field Office Piles RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-WY&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-01-02&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: WYCAD</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="224">
+                <Point id="226">
                     <coordinates>-106.2491997834731,42.681567707844266,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="227">
+            <Placemark id="229">
                 <name>S Fork Judith Piles RX</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;S Fork Judith Piles RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 11 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-MT&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-01-06&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: MTHLF</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="226">
+                <Point id="228">
                     <coordinates>-110.31477240823743,46.76908679371397,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="229">
+            <Placemark id="231">
                 <name>MBRTB PILE BURN RX</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;MBRTB PILE BURN RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CO&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-01-06&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: WYMRF</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="228">
+                <Point id="230">
                     <coordinates>-106.8988436711537,40.7827064204934,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="231">
+            <Placemark id="233">
                 <name>Beaver RD Piles RX</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Beaver RD Piles RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 127 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-UT&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-01-07&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: UTCLD</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="230">
+                <Point id="232">
                     <coordinates>-112.91079463220599,38.29088867922377,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="233">
+            <Placemark id="235">
                 <name>Central Zone Piles RX</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Central Zone Piles RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-WY&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-01-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: WYMRF</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="232">
+                <Point id="234">
                     <coordinates>-106.25139358157534,41.221206524877566,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="235">
+            <Placemark id="237">
                 <name>South Zone Pile Burn RX (Mill Creek)</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;South Zone Pile Burn RX (Mill Creek)&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 250 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-UT&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-01-16&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: UTMLF</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="234">
-                    <coordinates>-109.3452939338313,38.52738895637554,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="237">
-                <name>RX Highway 59 Piles</name>
-                <visibility>1</visibility>
-                <description>&lt;h3&gt;RX Highway 59 Piles&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 45 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-NM&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-01-17&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: NMGNF</description>
-                <styleUrl>#fire-style-active</styleUrl>
                 <Point id="236">
-                    <coordinates>-107.83929315395024,33.45913833626733,0.0</coordinates>
+                    <coordinates>-109.3452939338313,38.52738895637554,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="239">
@@ -2361,29 +2352,47 @@ Last updated: 2025-12-02 00:00:04 UTC</description>
                     <coordinates>-118.10747215412704,33.92682484975906,0.0</coordinates>
                 </Point>
             </Placemark>
+            <Placemark id="1355">
+                <name>Lower Dolason Rx</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Lower Dolason Rx&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-01&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CARWP</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="1354">
+                    <coordinates>-123.9731678898523,41.12408806864676,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="1357">
+                <name>LAC-419560</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;LAC-419560&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-01&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="1356">
+                    <coordinates>-118.34391219407568,33.930194836874115,0.0</coordinates>
+                </Point>
+            </Placemark>
         </Folder>
-        <Folder id="204">
-            <Style id="212">
-                <IconStyle id="213">
+        <Folder id="206">
+            <Style id="214">
+                <IconStyle id="215">
                     <color>ffffffff</color>
                     <colorMode>normal</colorMode>
                     <scale>1.3</scale>
                     <heading>0</heading>
-                    <Icon id="214">
+                    <Icon id="216">
                         <href>files/fire_icon.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="215">
+                <LabelStyle id="217">
                     <color>ffff9900</color>
                     <colorMode>normal</colorMode>
                     <scale>1.1</scale>
                 </LabelStyle>
-                <LineStyle id="217">
+                <LineStyle id="219">
                     <color>ff0099ff</color>
                     <colorMode>normal</colorMode>
                     <width>3</width>
                 </LineStyle>
-                <PolyStyle id="216">
+                <PolyStyle id="218">
                     <color>4000a5ff</color>
                     <colorMode>normal</colorMode>
                     <fill>1</fill>
@@ -3389,28 +3398,28 @@ Last updated: 2025-12-02 00:00:04 UTC</description>
                 </Point>
             </Placemark>
         </Folder>
-        <Folder id="205">
-            <Style id="218">
-                <IconStyle id="219">
+        <Folder id="207">
+            <Style id="220">
+                <IconStyle id="221">
                     <color>ffffffff</color>
                     <colorMode>normal</colorMode>
                     <scale>1.1</scale>
                     <heading>0</heading>
-                    <Icon id="220">
+                    <Icon id="222">
                         <href>files/fire_icon.png</href>
                     </Icon>
                 </IconStyle>
-                <LabelStyle id="221">
+                <LabelStyle id="223">
                     <color>ff00ff00</color>
                     <colorMode>normal</colorMode>
                     <scale>1.0</scale>
                 </LabelStyle>
-                <LineStyle id="223">
+                <LineStyle id="225">
                     <color>ff00ff00</color>
                     <colorMode>normal</colorMode>
                     <width>3</width>
                 </LineStyle>
-                <PolyStyle id="222">
+                <PolyStyle id="224">
                     <color>4000ff00</color>
                     <colorMode>normal</colorMode>
                     <fill>1</fill>

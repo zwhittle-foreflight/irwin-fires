@@ -158,9 +158,9 @@
       </Pair>
     </StyleMap>
 
-        <name>WatchDuty Fires - Updated: Dec 02, 2025 00:00 UTC</name>
+        <name>WatchDuty Fires - Updated: Dec 02, 2025 01:00 UTC</name>
         <description>Active wildfire data from WatchDuty
-Last updated: 2025-12-02 00:00:04 UTC</description>
+Last updated: 2025-12-02 01:00:04 UTC</description>
         <LookAt>
             <longitude>-98.5795</longitude>
             <latitude>39.8283</latitude>
@@ -874,12 +874,12 @@ Last updated: 2025-12-02 00:00:04 UTC</description>
                 </Point>
             </Placemark>
             <Placemark id="175">
-                <name>LAC-418388</name>
+                <name>Lower Dolason Rx</name>
                 <visibility>1</visibility>
-                <description>&lt;h3&gt;LAC-418388&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-11-30&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
+                <description>&lt;h3&gt;Lower Dolason Rx&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-01&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CARWP</description>
                 <styleUrl>#fire-style-active</styleUrl>
                 <Point id="174">
-                    <coordinates>-118.20977217103312,33.92319484362221,0.0</coordinates>
+                    <coordinates>-123.9731678898523,41.12408806864676,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="177">
@@ -979,6 +979,15 @@ Last updated: 2025-12-02 00:00:04 UTC</description>
                 <styleUrl>#fire-style-active</styleUrl>
                 <Point id="198">
                     <coordinates>-118.10747215412704,33.92682484975906,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="201">
+                <name>LAC-419560</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;LAC-419560&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-01&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="200">
+                    <coordinates>-118.34391219407568,33.930194836874115,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
