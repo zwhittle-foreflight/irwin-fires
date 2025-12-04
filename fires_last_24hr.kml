@@ -158,9 +158,9 @@
       </Pair>
     </StyleMap>
 
-        <name>WatchDuty Fires - Updated: Dec 04, 2025 03:00 UTC</name>
+        <name>WatchDuty Fires - Updated: Dec 04, 2025 04:00 UTC</name>
         <description>Active wildfire data from WatchDuty
-Last updated: 2025-12-04 03:00:07 UTC</description>
+Last updated: 2025-12-04 04:00:04 UTC</description>
         <LookAt>
             <longitude>-98.5795</longitude>
             <latitude>39.8283</latitude>
@@ -628,6 +628,24 @@ Last updated: 2025-12-04 03:00:07 UTC</description>
                 <styleUrl>#fire-style-active</styleUrl>
                 <Point id="118">
                     <coordinates>-117.97761214752386,34.11498487803802,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="121">
+                <name>VEG/JC/81A</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;VEG/JC/81A&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-03&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="120">
+                    <coordinates>-116.45222089774899,34.279762983558406,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="123">
+                <name>LAC-422153</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;LAC-422153&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-03&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="122">
+                    <coordinates>-118.17031216654772,33.94973484878274,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
