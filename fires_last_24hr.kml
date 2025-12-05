@@ -158,9 +158,9 @@
       </Pair>
     </StyleMap>
 
-        <name>WatchDuty Fires - Updated: Dec 05, 2025 05:00 UTC</name>
+        <name>WatchDuty Fires - Updated: Dec 05, 2025 06:00 UTC</name>
         <description>Active wildfire data from WatchDuty
-Last updated: 2025-12-05 05:00:04 UTC</description>
+Last updated: 2025-12-05 06:00:04 UTC</description>
         <LookAt>
             <longitude>-98.5795</longitude>
             <latitude>39.8283</latitude>
@@ -601,6 +601,15 @@ Last updated: 2025-12-05 05:00:04 UTC</description>
                 <styleUrl>#fire-style-active</styleUrl>
                 <Point id="112">
                     <coordinates>-118.36479219762664,33.93093483578397,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="115">
+                <name>MISSION BL / AMARILLO ST</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;MISSION BL / AMARILLO ST&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-04&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="114">
+                    <coordinates>-117.47847705416068,34.011793894616524,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
