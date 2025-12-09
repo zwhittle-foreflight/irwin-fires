@@ -158,9 +158,9 @@
       </Pair>
     </StyleMap>
 
-        <name>WatchDuty Fires - Updated: Dec 09, 2025 22:00 UTC</name>
+        <name>WatchDuty Fires - Updated: Dec 09, 2025 23:00 UTC</name>
         <description>Active wildfire data from WatchDuty
-Last updated: 2025-12-09 22:00:05 UTC</description>
+Last updated: 2025-12-09 23:00:04 UTC</description>
         <LookAt>
             <longitude>-98.5795</longitude>
             <latitude>39.8283</latitude>
@@ -487,21 +487,21 @@ Last updated: 2025-12-09 22:00:05 UTC</description>
                 </Point>
             </Placemark>
             <Placemark id="89">
-                <name>LAC-427744</name>
+                <name>CBHT Landing Piles RX</name>
                 <visibility>1</visibility>
-                <description>&lt;h3&gt;LAC-427744&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-08&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
+                <description>&lt;h3&gt;CBHT Landing Piles RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-MT&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-09&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: MTHLF</description>
                 <styleUrl>#fire-style-active</styleUrl>
                 <Point id="88">
-                    <coordinates>-118.17891216646964,33.93087484620512,0.0</coordinates>
+                    <coordinates>-111.66066771677005,46.84565467058528,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="91">
-                <name>FISH</name>
+                <name>Sylvan Piles RX</name>
                 <visibility>1</visibility>
-                <description>&lt;h3&gt;FISH&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 3 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-OK&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-08&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human</description>
+                <description>&lt;h3&gt;Sylvan Piles RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-SD&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-09&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: SDSDS</description>
                 <styleUrl>#fire-style-active</styleUrl>
                 <Point id="90">
-                    <coordinates>-96.62881761619376,34.82701612446973,0.0</coordinates>
+                    <coordinates>-103.56357731888906,43.840390065448894,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="93">
@@ -586,21 +586,39 @@ Last updated: 2025-12-09 22:00:05 UTC</description>
                 </Point>
             </Placemark>
             <Placemark id="111">
+                <name>Sheep</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Sheep&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-AZ&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-09&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: AZASD</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="110">
+                    <coordinates>-113.82589466217817,36.93303845728673,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="113">
                 <name>HY 86S  / AVE 52</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;HY 86S  / AVE 52&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-09&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="110">
+                <Point id="112">
                     <coordinates>-116.14767979530167,33.67383992873838,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="113">
+            <Placemark id="115">
                 <name>RANCH</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;RANCH&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 1 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-09&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="112">
+                <Point id="114">
                     <coordinates>-117.4066740394902,33.982663895329665,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="119">
+                <name>ROBLE</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;ROBLE&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 1 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-09&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="118">
+                    <coordinates>-123.17431348625811,39.07597198963319,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
@@ -638,12 +656,12 @@ Last updated: 2025-12-09 22:00:05 UTC</description>
             </Style>
             <name>Contained Fires</name>
             <visibility>1</visibility>
-            <Placemark id="115">
+            <Placemark id="117">
                 <name>School House</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;School House&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 6 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TX&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-09&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: TXTXS</description>
                 <styleUrl>#fire-style-contained</styleUrl>
-                <Point id="114">
+                <Point id="116">
                     <coordinates>-96.03920735392487,33.150555840279125,0.0</coordinates>
                 </Point>
             </Placemark>
