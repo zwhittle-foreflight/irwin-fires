@@ -158,9 +158,9 @@
       </Pair>
     </StyleMap>
 
-        <name>WatchDuty Fires - Updated: Dec 15, 2025 18:00 UTC</name>
+        <name>WatchDuty Fires - Updated: Dec 15, 2025 19:00 UTC</name>
         <description>Active wildfire data from WatchDuty
-Last updated: 2025-12-15 18:00:05 UTC</description>
+Last updated: 2025-12-15 19:00:05 UTC</description>
         <LookAt>
             <longitude>-98.5795</longitude>
             <latitude>39.8283</latitude>
@@ -289,21 +289,21 @@ Last updated: 2025-12-15 18:00:05 UTC</description>
                 </Point>
             </Placemark>
             <Placemark id="45">
-                <name>COLORADO</name>
+                <name>RX Burn Carpenter Bridge Rd Maury Co</name>
                 <visibility>1</visibility>
-                <description>&lt;h3&gt;COLORADO&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 1 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-OK&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human</description>
+                <description>&lt;h3&gt;RX Burn Carpenter Bridge Rd Maury Co&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 90 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TN&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-15&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Human</description>
                 <styleUrl>#fire-style-active</styleUrl>
                 <Point id="44">
-                    <coordinates>-96.91000768544879,34.79150610437143,0.0</coordinates>
+                    <coordinates>-86.85920264195819,35.62786769603544,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="47">
-                <name>STRONG</name>
+                <name>Stukel Hand Piles RX</name>
                 <visibility>1</visibility>
-                <description>&lt;h3&gt;STRONG&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-14&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: CABDF</description>
+                <description>&lt;h3&gt;Stukel Hand Piles RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-OR&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-15&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: ORLAD</description>
                 <styleUrl>#fire-style-active</styleUrl>
                 <Point id="46">
-                    <coordinates>-116.69654489670904,33.73472190598213,0.0</coordinates>
+                    <coordinates>-121.6101396856382,42.08963734408126,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="49">
@@ -478,11 +478,20 @@ Last updated: 2025-12-15 18:00:05 UTC</description>
                 </Point>
             </Placemark>
             <Placemark id="93">
+                <name>Leche</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Leche&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-NM&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-15&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="92">
+                    <coordinates>-106.9456431674448,36.025222766830375,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="95">
                 <name>LAC-436316</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;LAC-436316&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-15&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="92">
+                <Point id="94">
                     <coordinates>-118.14302222105714,34.65671492814777,0.0</coordinates>
                 </Point>
             </Placemark>
