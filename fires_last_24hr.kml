@@ -158,9 +158,9 @@
       </Pair>
     </StyleMap>
 
-        <name>WatchDuty Fires - Updated: Dec 16, 2025 00:00 UTC</name>
+        <name>WatchDuty Fires - Updated: Dec 16, 2025 01:00 UTC</name>
         <description>Active wildfire data from WatchDuty
-Last updated: 2025-12-16 00:00:04 UTC</description>
+Last updated: 2025-12-16 01:00:05 UTC</description>
         <LookAt>
             <longitude>-98.5795</longitude>
             <latitude>39.8283</latitude>
@@ -469,48 +469,87 @@ Last updated: 2025-12-16 00:00:04 UTC</description>
                 </Point>
             </Placemark>
             <Placemark id="91">
-                <name>ATTA 12152025</name>
+                <name>ATTA 121525</name>
                 <visibility>1</visibility>
-                <description>&lt;h3&gt;ATTA 12152025&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-SC&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-15&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: SCSRE</description>
+                <description>&lt;h3&gt;ATTA 121525&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-SC&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-15&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: SCSRE</description>
                 <styleUrl>#fire-style-active</styleUrl>
                 <Point id="90">
                     <coordinates>-81.56667035884766,33.33333944448412,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="93">
+                <name/>
+                <description>&lt;h3&gt;Bull&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 5 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-MO&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-15&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Polygon id="92">
+                    <outerBoundaryIs>
+                        <LinearRing id="96">
+                            <coordinates>-90.63895,36.966787,0.0 -90.640075,36.966861,0.0 -90.640463,36.967636,0.0 -90.639697,36.968245,0.0 -90.639116,36.968279,0.0 -90.639012,36.96781,0.0 -90.638727,36.967496,0.0 -90.63895,36.966787,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="99">
                 <name>Bull</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Bull&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 5 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-MO&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-15&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="92">
-                    <coordinates>-90.6392011783402,36.96683181317662,0.0</coordinates>
+                <Point id="98">
+                    <coordinates>-90.6395001343014,36.96750050266092,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="95">
+            <Placemark id="101">
+                <name>Mule Hill</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Mule Hill&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 9 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-OR&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-15&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: ORUPF</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="100">
+                    <coordinates>-122.79554198964632,42.81842228637881,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="103">
                 <name>LAC-436549</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;LAC-436549&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-15&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="94">
+                <Point id="102">
                     <coordinates>-118.17038223357142,34.74783493644287,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="97">
+            <Placemark id="105">
+                <name>GRAPEFRUIT</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;GRAPEFRUIT&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-15&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="104">
+                    <coordinates>-116.07299077350305,33.563524919511316,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="107">
                 <name>SIERRA AV / I 15  N</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;SIERRA AV / I 15  N&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-15&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="96">
+                <Point id="106">
                     <coordinates>-117.43676206086374,34.18144891622744,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="99">
+            <Placemark id="109">
+                <name>Cohutta Springs</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Cohutta Springs&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 2 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-GA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-15&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="108">
+                    <coordinates>-84.73927936816591,34.895884663178656,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="111">
                 <name>CANYON</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;CANYON&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-15&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="98">
-                    <coordinates>-120.80130907569959,38.68742314160937,0.0</coordinates>
+                <Point id="110">
+                    <coordinates>-120.80402907541003,38.6816041409023,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
