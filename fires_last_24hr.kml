@@ -158,9 +158,9 @@
       </Pair>
     </StyleMap>
 
-        <name>WatchDuty Fires - Updated: Dec 17, 2025 06:00 UTC</name>
+        <name>WatchDuty Fires - Updated: Dec 17, 2025 07:00 UTC</name>
         <description>Active wildfire data from WatchDuty
-Last updated: 2025-12-17 06:00:06 UTC</description>
+Last updated: 2025-12-17 07:00:05 UTC</description>
         <LookAt>
             <longitude>-98.5795</longitude>
             <latitude>39.8283</latitude>
@@ -552,15 +552,6 @@ Last updated: 2025-12-17 06:00:06 UTC</description>
                     <coordinates>-117.20409495384786,33.33351183146422,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="137">
-                <name>Houston - Tennessee 232</name>
-                <visibility>1</visibility>
-                <description>&lt;h3&gt;Houston - Tennessee 232&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 70 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TN&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-16&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: TNTNS</description>
-                <styleUrl>#fire-style-active</styleUrl>
-                <Point id="136">
-                    <coordinates>-87.94998870984796,36.34625682075164,0.0</coordinates>
-                </Point>
-            </Placemark>
             <Placemark id="141">
                 <name>VEG/CM/82A</name>
                 <visibility>1</visibility>
@@ -586,6 +577,15 @@ Last updated: 2025-12-17 06:00:06 UTC</description>
                 <styleUrl>#fire-style-active</styleUrl>
                 <Point id="144">
                     <coordinates>-117.97631214743208,34.11654487828551,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="147">
+                <name>MONTE</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;MONTE&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-16&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: CACCA</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="146">
+                    <coordinates>-120.22694189853928,37.97348712139153,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
@@ -756,6 +756,15 @@ Last updated: 2025-12-17 06:00:06 UTC</description>
                 <styleUrl>#fire-style-contained</styleUrl>
                 <Point id="124">
                     <coordinates>-87.97682199361755,35.38940663018161,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="137">
+                <name>Houston - Tennessee 232</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Houston - Tennessee 232&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 70 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TN&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-16&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: TNTNS</description>
+                <styleUrl>#fire-style-contained</styleUrl>
+                <Point id="136">
+                    <coordinates>-87.94998870984796,36.34625682075164,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="139">
