@@ -158,9 +158,9 @@
       </Pair>
     </StyleMap>
 
-        <name>WatchDuty Fires - Updated: Dec 18, 2025 07:00 UTC</name>
+        <name>WatchDuty Fires - Updated: Dec 18, 2025 08:00 UTC</name>
         <description>Active wildfire data from WatchDuty
-Last updated: 2025-12-18 07:00:04 UTC</description>
+Last updated: 2025-12-18 08:00:04 UTC</description>
         <LookAt>
             <longitude>-98.5795</longitude>
             <latitude>39.8283</latitude>
@@ -493,6 +493,15 @@ Last updated: 2025-12-18 07:00:04 UTC</description>
                 <styleUrl>#fire-style-active</styleUrl>
                 <Point id="104">
                     <coordinates>-117.80942216364417,34.645884946610934,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="107">
+                <name>VAN BUREN</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;VAN BUREN&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2025-12-17&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="106">
+                    <coordinates>-117.46999604914271,33.96770489007719,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
