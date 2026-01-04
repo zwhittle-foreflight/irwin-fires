@@ -158,9 +158,9 @@
       </Pair>
     </StyleMap>
 
-        <name>WatchDuty Fires - Updated: Jan 04, 2026 21:00 UTC</name>
+        <name>WatchDuty Fires - Updated: Jan 04, 2026 22:00 UTC</name>
         <description>Active wildfire data from WatchDuty
-Last updated: 2026-01-04 21:00:03 UTC</description>
+Last updated: 2026-01-04 22:00:05 UTC</description>
         <LookAt>
             <longitude>-98.5795</longitude>
             <latitude>39.8283</latitude>
@@ -243,55 +243,91 @@ Last updated: 2026-01-04 21:00:03 UTC</description>
                     <coordinates>-109.66510120146103,40.20602614276436,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="35">
-                <name>Springs Creek</name>
-                <visibility>1</visibility>
-                <description>&lt;h3&gt;Springs Creek&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 3 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TX&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-04&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: TXTXS</description>
-                <styleUrl>#fire-style-active</styleUrl>
-                <Point id="34">
-                    <coordinates>-99.4623781727124,32.530725575386704,0.0</coordinates>
-                </Point>
-            </Placemark>
             <Placemark id="37">
-                <name>80</name>
+                <name>Lampher Spring</name>
                 <visibility>1</visibility>
-                <description>&lt;h3&gt;80&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-04&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
+                <description>&lt;h3&gt;Lampher Spring&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-MO&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-04&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: MOMTF</description>
                 <styleUrl>#fire-style-active</styleUrl>
                 <Point id="36">
-                    <coordinates>-116.56064080629291,32.84908980752612,0.0</coordinates>
+                    <coordinates>-90.30978912606541,37.47475692426432,0.0</coordinates>
                 </Point>
             </Placemark>
             <Placemark id="39">
+                <name>Metberry Gulch</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Metberry Gulch&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CO&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-04&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: COPSF</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="38">
+                    <coordinates>-105.28802010561002,39.111696311649126,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="41">
                 <name>Reynolds Hollow</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Reynolds Hollow&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 1 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-MO&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-04&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: MOMTF</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="38">
+                <Point id="40">
                     <coordinates>-91.03963933397408,37.54175690001488,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="41">
+            <Placemark id="43">
                 <name>Brushy Creek</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Brushy Creek&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 8 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-MO&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-04&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: MOMTF</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="40">
+                <Point id="42">
                     <coordinates>-91.03925633375897,37.540389899782696,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="43">
+            <Placemark id="45">
                 <name>SDU/MCCAIN VALLEY</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;SDU/MCCAIN VALLEY&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-04&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="42">
+                <Point id="44">
                     <coordinates>-116.28520575148183,32.75950481068911,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
         <Folder id="4">
+            <Style id="12">
+                <IconStyle id="13">
+                    <color>ffffffff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.3</scale>
+                    <heading>0</heading>
+                    <Icon id="14">
+                        <href>files/fire_icon.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="15">
+                    <color>ffff9900</color>
+                    <colorMode>normal</colorMode>
+                    <scale>1.1</scale>
+                </LabelStyle>
+                <LineStyle id="17">
+                    <color>ff0099ff</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+                <PolyStyle id="16">
+                    <color>4000a5ff</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
             <name>Monitoring</name>
             <visibility>1</visibility>
+            <Placemark id="35">
+                <name>Springs Creek</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Springs Creek&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Monitoring&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 9 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 50%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TX&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-04&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: TXTXS</description>
+                <styleUrl>#fire-style-monitoring</styleUrl>
+                <Point id="34">
+                    <coordinates>-99.4623781727124,32.530725575386704,0.0</coordinates>
+                </Point>
+            </Placemark>
         </Folder>
         <Folder id="5">
             <name>Contained Fires</name>
