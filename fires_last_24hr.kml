@@ -158,9 +158,9 @@
       </Pair>
     </StyleMap>
 
-        <name>WatchDuty Fires - Updated: Jan 06, 2026 00:00 UTC</name>
+        <name>WatchDuty Fires - Updated: Jan 06, 2026 01:00 UTC</name>
         <description>Active wildfire data from WatchDuty
-Last updated: 2026-01-06 00:00:04 UTC</description>
+Last updated: 2026-01-06 01:00:05 UTC</description>
         <LookAt>
             <longitude>-98.5795</longitude>
             <latitude>39.8283</latitude>
@@ -586,273 +586,624 @@ Last updated: 2026-01-06 00:00:04 UTC</description>
                 </Point>
             </Placemark>
             <Placemark id="111">
+                <name>Stagecoach Hand Piles Rx</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Stagecoach Hand Piles Rx&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CO&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: WYMRF</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="110">
+                    <coordinates>-106.79844157386313,40.18763535104696,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="113">
                 <name>FIRCO ROAD FRP RX</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;FIRCO ROAD FRP RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="110">
+                <Point id="112">
                     <coordinates>-123.3598675628366,39.45281900300136,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="113">
+            <Placemark id="115">
                 <name>Red Oak Redemption Piles PU 5 RX</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Red Oak Redemption Piles PU 5 RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-WI&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: WICNF</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="112">
+                <Point id="114">
                     <coordinates>-91.26634040812664,46.65334137397345,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="115">
+            <Placemark id="117">
                 <name>West Zone Piles RX</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;West Zone Piles RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-WY&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="114">
+                <Point id="116">
                     <coordinates>-110.93091182123754,42.72100632990781,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="117">
+            <Placemark id="119">
+                <name>LOW GAP AGENCY ASSIST RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;LOW GAP AGENCY ASSIST RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="118">
+                    <coordinates>-123.48039555095424,39.23035097700147,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="121">
                 <name>KITTY CREEK PILES RX</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;KITTY CREEK PILES RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-WY&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: WYSHF</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="116">
+                <Point id="120">
                     <coordinates>-109.86251187324827,44.44083960429577,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="119">
+            <Placemark id="123">
                 <name>Sunrise Piles Rx</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Sunrise Piles Rx&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-NV&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: NVCCD</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="118">
+                <Point id="122">
                     <coordinates>-119.63417993036359,39.02933826074624,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="121">
+            <Placemark id="125">
+                <name>STORNETTA AGENCY ASSIST RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;STORNETTA AGENCY ASSIST RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CACND</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="124">
+                    <coordinates>-123.73601255186391,38.953105936439336,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="127">
+                <name>YARDING AGENCY ASSIST RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;YARDING AGENCY ASSIST RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="126">
+                    <coordinates>-123.76639759743021,39.2700389571928,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="129">
+                <name>ALDER SPRINGS STANDBY RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;ALDER SPRINGS STANDBY RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="128">
+                    <coordinates>-123.53628662175582,39.699891006785236,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="131">
                 <name>FY26 NFMS RX Burn Support</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;FY26 NFMS RX Burn Support&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-MS&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="120">
+                <Point id="130">
                     <coordinates>-90.19659476325133,32.3921399283107,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="123">
+            <Placemark id="133">
+                <name>CALTRANS FRP RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;CALTRANS FRP RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="132">
+                    <coordinates>-123.24249452162888,39.270873998875224,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="135">
+                <name>BRUSHY VMP RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;BRUSHY VMP RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="134">
+                    <coordinates>-123.31661358356342,39.654106021256844,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="137">
                 <name>South Penn Rx Piles - East</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;South Penn Rx Piles - East&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 27 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-OR&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: ORMHF</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="122">
+                <Point id="136">
                     <coordinates>-121.34815922481683,45.29507458647973,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="125">
+            <Placemark id="139">
+                <name>ROAD 408 RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;ROAD 408 RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CAMEU</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="138">
+                    <coordinates>-123.71436060067047,39.351200967225175,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="141">
                 <name>LOOP ROAD 39_2 PILES RX</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;LOOP ROAD 39_2 PILES RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-WY&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: WYSHF</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="124">
+                <Point id="140">
                     <coordinates>-108.90928938435924,42.6999784953007,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="127">
+            <Placemark id="143">
+                <name>YORKVILLE RANCH RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;YORKVILLE RANCH RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="142">
+                    <coordinates>-123.2720404796152,38.91307996968953,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="145">
                 <name>RX SPANISH TERRACE</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;RX SPANISH TERRACE&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-ID&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: IDSWS</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="126">
+                <Point id="144">
                     <coordinates>-115.85381899148818,43.86907600900569,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="129">
+            <Placemark id="147">
+                <name>HOPLAND BAND FRP RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;HOPLAND BAND FRP RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="146">
+                    <coordinates>-123.05751845667513,38.97927399144758,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="149">
+                <name>CAHTO TRIBE FRP RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;CAHTO TRIBE FRP RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CACCA</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="148">
+                    <coordinates>-123.49803461190143,39.6682110075967,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="151">
+                <name>ACOE LAKE MENDOCINO RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;ACOE LAKE MENDOCINO RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="150">
+                    <coordinates>-123.1785305077351,39.236321001360636,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="153">
                 <name>RX D4 PILES</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;RX D4 PILES&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-ID&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: IDBOF</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="128">
+                <Point id="152">
                     <coordinates>-116.10483315620243,44.52242604151794,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="131">
+            <Placemark id="155">
+                <name>PARLIN BURN RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;PARLIN BURN RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CAMEU</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="154">
+                    <coordinates>-123.65630359465612,39.36891297314812,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="157">
+                <name>ACOE COYOTE DAM RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;ACOE COYOTE DAM RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="156">
+                    <coordinates>-123.18380850343713,39.197524998032975,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="159">
+                <name>CHAMBERLAIN PREP RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;CHAMBERLAIN PREP RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CAMEU</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="158">
+                    <coordinates>-123.57499258790733,39.40651498238623,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="161">
+                <name>TOP OF HARE RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;TOP OF HARE RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CAMEU</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="160">
+                    <coordinates>-123.69720460160535,39.376872970456944,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="163">
+                <name>VAN DAMME FRP RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;VAN DAMME FRP RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CAMEU</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="162">
+                    <coordinates>-123.78804560125789,39.27551495586725,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="165">
+                <name>RIDGE FRP RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;RIDGE FRP RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="164">
+                    <coordinates>-123.40648756715693,39.434282997904745,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="167">
                 <name>POTTER VALLEY RX</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;POTTER VALLEY RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="130">
+                <Point id="166">
                     <coordinates>-123.09550750838301,39.33400001527315,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="133">
+            <Placemark id="169">
                 <name>HREC VMP RX FIRE</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;HREC VMP RX FIRE&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="132">
+                <Point id="168">
                     <coordinates>-123.08359646335687,39.00148799110054,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="135">
+            <Placemark id="171">
+                <name>HOWARD FOREST FRP RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;HOWARD FOREST FRP RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="170">
+                    <coordinates>-123.31704154241685,39.3460189985356,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="173">
+                <name>ACORN PREP RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;ACORN PREP RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CAMEU</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="172">
+                    <coordinates>-123.59373958499008,39.36412097779664,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="175">
+                <name>HREC VMP BURN PREP RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;HREC VMP BURN PREP RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="174">
+                    <coordinates>-123.08359646335687,39.00148799110054,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="177">
+                <name>ACORN BURN RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;ACORN BURN RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CAMEU</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="176">
+                    <coordinates>-123.59373958499008,39.36412097779664,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="179">
+                <name>JDSF ROAD MAINTENANCE RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;JDSF ROAD MAINTENANCE RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CAMEU</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="178">
+                    <coordinates>-123.55835057833212,39.352485979771856,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="181">
+                <name>LITTLE RIVER AIRPORT FRP RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;LITTLE RIVER AIRPORT FRP RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="180">
+                    <coordinates>-123.75343859456851,39.26243395767162,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="183">
+                <name>MEU REPEATERS FRP RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;MEU REPEATERS FRP RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="182">
+                    <coordinates>-123.31963354278761,39.34596299832495,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="185">
+                <name>MEU FACILITIES FRP RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;MEU FACILITIES FRP RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="184">
+                    <coordinates>-123.31963354278761,39.34596299832495,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="187">
+                <name>MANCHESTER FRP RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;MANCHESTER FRP RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CAMEU</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="186">
+                    <coordinates>-123.80647962974655,39.470188968429156,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="189">
+                <name>FAIRBANKS DRIVE RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;FAIRBANKS DRIVE RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CAMEU</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="188">
+                    <coordinates>-123.77445560889922,39.348119962203114,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="191">
+                <name>CAMP 8 RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;CAMP 8 RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CAMEU</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="190">
+                    <coordinates>-123.65772260050991,39.4114389761224,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="193">
+                <name>PARLIN PREP RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;PARLIN PREP RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CAMEU</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="192">
+                    <coordinates>-123.65630359465612,39.36891297314812,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="195">
+                <name>CHAMBERLAIN BURN RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;CHAMBERLAIN BURN RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CAMEU</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="194">
+                    <coordinates>-123.57499258790733,39.40651498238623,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="197">
+                <name>JUG HANDLE FRP RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;JUG HANDLE FRP RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CAMEU</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="196">
+                    <coordinates>-123.81893361866877,39.37366996049137,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="199">
+                <name>SHERWOOD BAND FRP RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;SHERWOOD BAND FRP RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CACCA</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="198">
+                    <coordinates>-123.36171055541057,39.39495999859041,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="201">
+                <name>REDTAIL THP RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;REDTAIL THP RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CAMEU</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="200">
+                    <coordinates>-123.70875860619462,39.398897971128015,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="203">
+                <name>MACKERRICHER FRP RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;MACKERRICHER FRP RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CAMEU</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="202">
+                    <coordinates>-123.80300763076525,39.4815229695217,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="205">
+                <name>BOB WOODS WEST RX</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;BOB WOODS WEST RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CAMEU</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="204">
+                    <coordinates>-123.63160359528938,39.40051897742009,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="207">
                 <name>HOWARD FOREST RX FIRE</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;HOWARD FOREST RX FIRE&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="134">
+                <Point id="206">
                     <coordinates>-123.31704154241685,39.3460189985356,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="137">
+            <Placemark id="209">
                 <name>CRIBWALL RX</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;CRIBWALL RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CAMEU</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="136">
+                <Point id="208">
                     <coordinates>-123.69031760378209,39.400722972736176,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="139">
+            <Placemark id="211">
                 <name>DUNLAP UNDERSTORY RX</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;DUNLAP UNDERSTORY RX&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: RX | Cause: Undetermined | Unit: CAMEU</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="138">
+                <Point id="210">
                     <coordinates>-123.56175857802366,39.34642997905719,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="141">
+            <Placemark id="213">
                 <name>Cito</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Cito&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-AZ&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-04&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: AZTNF</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="140">
+                <Point id="212">
                     <coordinates>-111.54006092456432,33.59372216496764,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="145">
+            <Placemark id="217">
                 <name>Dump Road</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Dump Road&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 2 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-MS&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-04&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: MSMNF</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="144">
+                <Point id="216">
                     <coordinates>-88.90435032036451,30.570650586821976,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="147">
+            <Placemark id="219">
                 <name>MONROE ST UNDERPASS  / INDIO BL</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;MONROE ST UNDERPASS  / INDIO BL&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-04&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="146">
+                <Point id="218">
                     <coordinates>-116.23345081483966,33.72946393072041,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="149">
+            <Placemark id="221">
                 <name>TRAINING</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;TRAINING&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: CAANF</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="148">
+                <Point id="220">
                     <coordinates>-117.85134113507377,34.2233878973087,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="151">
+            <Placemark id="223">
                 <name>HACIENDA AV / TAMAR DR</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;HACIENDA AV / TAMAR DR&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="150">
+                <Point id="222">
                     <coordinates>-116.48816887757994,33.95413994332518,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="153">
+            <Placemark id="225">
                 <name>LAC-005208</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;LAC-005208&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="152">
+                <Point id="224">
                     <coordinates>-118.23841217625889,33.92839484259335,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="155">
+            <Placemark id="227">
                 <name>320</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;320&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-FL&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: FLFNF</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="154">
+                <Point id="226">
                     <coordinates>-84.65133711884533,30.351888674617516,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="161">
+            <Placemark id="233">
                 <name>River Falls</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;River Falls&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 2 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-GA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="160">
+                <Point id="232">
                     <coordinates>-83.39637397019733,34.76545668787542,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="163">
+            <Placemark id="235">
                 <name>WOODWARD</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;WOODWARD&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-OK&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="162">
+                <Point id="234">
                     <coordinates>-98.19861902008593,34.915284063059474,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="165">
+            <Placemark id="237">
                 <name>Carson Seven</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Carson Seven&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 51 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-MS&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="164">
+                <Point id="236">
                     <coordinates>-89.05250535925734,30.529449572902628,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="171">
+            <Placemark id="243">
                 <name>PANYARD GAP</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;PANYARD GAP&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-NC&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: NCNCF</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="170">
+                <Point id="242">
                     <coordinates>-82.80370386172814,35.89998994845216,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="179">
-                <name>Letcher County - 352 Franklin Branch</name>
-                <visibility>1</visibility>
-                <description>&lt;h3&gt;Letcher County - 352 Franklin Branch&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 5 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 20%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-KY&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: KYKYS</description>
-                <styleUrl>#fire-style-active</styleUrl>
-                <Point id="178">
-                    <coordinates>-82.80067598869465,37.151738734652014,0.0</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark id="181">
+            <Placemark id="253">
                 <name>CORK</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;CORK&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 2 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-OK&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="180">
+                <Point id="252">
                     <coordinates>-94.64017425549633,36.88200659483009,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="189">
+            <Placemark id="261">
+                <name>Floyd County - 547 Cow Creek</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Floyd County - 547 Cow Creek&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 10 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-KY&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: KYKYS</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="260">
+                    <coordinates>-82.64558312384895,37.62803980677578,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="263">
                 <name>LAC-005603</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;LAC-005603&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="188">
+                <Point id="262">
                     <coordinates>-118.07603220253733,34.572774922915535,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="191">
+            <Placemark id="265">
                 <name>104th</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;104th&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 35 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CO&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human</description>
                 <styleUrl>#fire-style-active</styleUrl>
-                <Point id="190">
+                <Point id="264">
                     <coordinates>-105.11161016184778,39.95430643997524,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="267">
+                <name>Clay 0186</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Clay 0186&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 100 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 25%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TX&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="266">
+                    <coordinates>-98.34704799037034,33.97117588731469,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="271">
+                <name>Omar</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Omar&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-MS&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: MSMNF</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="270">
+                    <coordinates>-89.04884535826157,30.529665573071707,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="273">
+                <name>LAC-005802</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;LAC-005802&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="272">
+                    <coordinates>-118.20977217103312,33.92319484362221,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
@@ -890,111 +1241,120 @@ Last updated: 2026-01-06 00:00:04 UTC</description>
             </Style>
             <name>Contained Fires</name>
             <visibility>1</visibility>
-            <Placemark id="143">
+            <Placemark id="215">
                 <name>Lee 0141</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Lee 0141&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 2 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TX&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-04&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: TXTXS</description>
                 <styleUrl>#fire-style-contained</styleUrl>
-                <Point id="142">
+                <Point id="214">
                     <coordinates>-96.94615743657204,30.471438614689895,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="157">
+            <Placemark id="229">
                 <name>Hawkins - Cave Springs Road</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Hawkins - Cave Springs Road&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 16 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TN&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: TNTNS</description>
                 <styleUrl>#fire-style-contained</styleUrl>
-                <Point id="156">
+                <Point id="228">
                     <coordinates>-82.95473727276321,36.49759039546401,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="159">
+            <Placemark id="231">
                 <name>Anderson Lane</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Anderson Lane&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 2 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-KY&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: KYKYS</description>
                 <styleUrl>#fire-style-contained</styleUrl>
-                <Point id="158">
+                <Point id="230">
                     <coordinates>-83.24046412067545,37.91886733915116,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="167">
+            <Placemark id="239">
                 <name>Sumner - Busby Hollow Lane</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Sumner - Busby Hollow Lane&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 8 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TN&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: TNTNS</description>
                 <styleUrl>#fire-style-contained</styleUrl>
-                <Point id="166">
+                <Point id="238">
                     <coordinates>-86.64873501395357,36.421286893594036,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="169">
+            <Placemark id="241">
                 <name>Beve Cotton</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Beve Cotton&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-KY&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: KYKYS</description>
                 <styleUrl>#fire-style-contained</styleUrl>
-                <Point id="168">
+                <Point id="240">
                     <coordinates>-83.74578422035805,37.18127717083808,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="173">
+            <Placemark id="245">
                 <name>Scott-Paint Rock Road</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Scott-Paint Rock Road&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 6 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TN&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: TNTNS</description>
                 <styleUrl>#fire-style-contained</styleUrl>
-                <Point id="172">
+                <Point id="244">
                     <coordinates>-84.48745439203934,36.47904032829711,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="175">
+            <Placemark id="247">
                 <name>Union - Graves Lane</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Union - Graves Lane&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 1 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TN&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: TNTNS</description>
                 <styleUrl>#fire-style-contained</styleUrl>
-                <Point id="174">
+                <Point id="246">
                     <coordinates>-83.80231316700329,36.25150812058487,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="177">
+            <Placemark id="249">
                 <name>Liberty 0182</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Liberty 0182&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 4 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TX&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: TXTXS</description>
                 <styleUrl>#fire-style-contained</styleUrl>
-                <Point id="176">
+                <Point id="248">
                     <coordinates>-95.04232360681287,30.14817195767082,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="183">
+            <Placemark id="251">
+                <name>Letcher County - 352 Franklin Branch</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Letcher County - 352 Franklin Branch&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 3 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-KY&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: KYKYS</description>
+                <styleUrl>#fire-style-contained</styleUrl>
+                <Point id="250">
+                    <coordinates>-82.80067598869465,37.151738734652014,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="255">
                 <name>Anderson 0183</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Anderson 0183&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 6 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TX&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: TXTXS</description>
                 <styleUrl>#fire-style-contained</styleUrl>
-                <Point id="182">
+                <Point id="254">
                     <coordinates>-95.59871316722976,31.88236261396532,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="185">
+            <Placemark id="257">
                 <name>Meigs-Liggett Rd</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Meigs-Liggett Rd&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 3 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TN&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: TNTNS</description>
                 <styleUrl>#fire-style-contained</styleUrl>
-                <Point id="184">
+                <Point id="256">
                     <coordinates>-84.89428777477832,35.4304234376935,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="187">
+            <Placemark id="259">
                 <name>Nacogdoches 0185</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Nacogdoches 0185&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 4 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TX&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Human | Unit: TXTXS</description>
                 <styleUrl>#fire-style-contained</styleUrl>
-                <Point id="186">
+                <Point id="258">
                     <coordinates>-94.7490886118918,31.768175625000424,0.0</coordinates>
                 </Point>
             </Placemark>
-            <Placemark id="193">
+            <Placemark id="269">
                 <name>Union - Pine Crest Drive</name>
                 <visibility>1</visibility>
                 <description>&lt;h3&gt;Union - Pine Crest Drive&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Contained&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 0 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 100%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TN&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-05&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
                 <styleUrl>#fire-style-contained</styleUrl>
-                <Point id="192">
+                <Point id="268">
                     <coordinates>-83.75873749602523,36.280406988271295,0.0</coordinates>
                 </Point>
             </Placemark>
