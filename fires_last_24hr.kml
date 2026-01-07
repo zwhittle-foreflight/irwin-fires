@@ -158,9 +158,9 @@
       </Pair>
     </StyleMap>
 
-        <name>WatchDuty Fires - Updated: Jan 07, 2026 05:00 UTC</name>
+        <name>WatchDuty Fires - Updated: Jan 07, 2026 06:00 UTC</name>
         <description>Active wildfire data from WatchDuty
-Last updated: 2026-01-07 05:00:03 UTC</description>
+Last updated: 2026-01-07 06:00:03 UTC</description>
         <LookAt>
             <longitude>-98.5795</longitude>
             <latitude>39.8283</latitude>
@@ -794,6 +794,15 @@ Last updated: 2026-01-07 05:00:03 UTC</description>
                 <styleUrl>#fire-style-monitoring</styleUrl>
                 <Point id="152">
                     <coordinates>-83.18622063796204,35.792106910951645,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="165">
+                <name>Cherokee 0226</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Cherokee 0226&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Monitoring&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 3 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 80%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-TX&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-06&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined | Unit: TXTXS</description>
+                <styleUrl>#fire-style-monitoring</styleUrl>
+                <Point id="164">
+                    <coordinates>-95.14400706133188,32.084705671886866,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
