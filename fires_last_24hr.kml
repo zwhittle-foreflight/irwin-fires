@@ -158,9 +158,9 @@
       </Pair>
     </StyleMap>
 
-        <name>WatchDuty Fires - Updated: Jan 09, 2026 04:00 UTC</name>
+        <name>WatchDuty Fires - Updated: Jan 09, 2026 05:00 UTC</name>
         <description>Active wildfire data from WatchDuty
-Last updated: 2026-01-09 04:00:04 UTC</description>
+Last updated: 2026-01-09 05:00:02 UTC</description>
         <LookAt>
             <longitude>-98.5795</longitude>
             <latitude>39.8283</latitude>
@@ -565,6 +565,24 @@ Last updated: 2026-01-09 04:00:04 UTC</description>
                 <styleUrl>#fire-style-active</styleUrl>
                 <Point id="126">
                     <coordinates>-82.45039901390952,37.29698974847441,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="131">
+                <name>Arkle Road</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;Arkle Road&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; 10 acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-KY&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-08&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="130">
+                    <coordinates>-83.96240426677339,36.91840710894932,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="133">
+                <name>LAC-009794</name>
+                <visibility>1</visibility>
+                <description>&lt;h3&gt;LAC-009794&lt;/h3&gt;&lt;br/&gt;&lt;b&gt;Status:&lt;/b&gt; Active&lt;br/&gt;&lt;b&gt;Size:&lt;/b&gt; None acres&lt;br/&gt;&lt;b&gt;Containment:&lt;/b&gt; 0%&lt;br/&gt;&lt;b&gt;State:&lt;/b&gt; US-CA&lt;br/&gt;&lt;b&gt;Start Date:&lt;/b&gt; 2026-01-08&lt;br/&gt;&lt;b&gt;Description:&lt;/b&gt; Type: WF | Cause: Undetermined</description>
+                <styleUrl>#fire-style-active</styleUrl>
+                <Point id="132">
+                    <coordinates>-118.37315220558696,34.01186484423218,0.0</coordinates>
                 </Point>
             </Placemark>
         </Folder>
